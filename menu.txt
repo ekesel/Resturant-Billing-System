@@ -1,0 +1,4 @@
+paneer 80
+kofta 30
+icecream 50
+brinjal 60
