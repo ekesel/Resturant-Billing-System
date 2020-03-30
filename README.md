@@ -1,0 +1,2 @@
+# Resturant-Billing-System
+I have created a mini project on c++ regarding a resturant shop where owner can login and add menu items or delete or change prices of items. User can see menu and order items. The bill will be displayed and stored in a text file. Other than that, there's a feature called feedback where users can give feedback regarding items and see feedback of other users so that they can choose the right food for themselves.
